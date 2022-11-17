@@ -1,6 +1,17 @@
-# Data-Analytics
+# Data Analytics
 
-Course materials and assigned questions' implementation
+The implementations cover the following concepts in working with data.
 
-This repository is contained my taken Data Analytics course at University of Tehran. The course has been instructed by Dr. Amin Sadeghi.
-Course projects' implementation with some explanation will be here. Besides, I have attached some articles, and other useful resources about course and projects.
+- Loading and visualizing data
+- Descriptive and Predictive analytics
+- Exploratory Data Analysis - Confirmatory Data Analysis
+- A/B Testing
+- Pandas library and dataframes - Data types
+- Data reviewing - Summary - Statistics
+- Dealing with missing values
+- Group by - pivot tables - joining tables
+- Python visualization libraries
+- Tables - Scatterplots - Linegraphs - barcharts - Box plot
+- Visualizing Geospatial data, distributions, graph, tree, matrix
+- How to work with SQL database, SQL visualization
+- Dimensionality Reduction, Clustering, Segmentation
