@@ -1,5 +1,7 @@
 # Data Analytics
 
+Data analytics (DA) is the process of examining data sets in order to find trends and draw conclusions about the information they contain. Increasingly, data analytics is done with the aid of specialized systems and software.
+
 The implementations cover the following concepts in working with data.
 
 - Loading and visualizing data
